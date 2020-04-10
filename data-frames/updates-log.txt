@@ -1,0 +1,70 @@
+Updated data in 272.081 seconds
+Updated data in 278.576 seconds
+Updated data in 0.00 minutes on 19-03-2020_00:11:04
+Updated data in 6.16 minutes on 19-03-2020_09:45:53
+Updated data in 0.00 minutes on 19-03-2020_11:38:08
+Updated data in 4.70 minutes on 19-03-2020_11:43:16
+Updated data in 4.68 minutes on 19-03-2020_11:53:47
+Updated data in 4.87 minutes on 19-03-2020_12:01:50
+Updated data in 5.07 minutes on 19-03-2020_15:56:30
+Updated data in 5.12 minutes on 19-03-2020_16:07:24
+Updated data in 5.64 minutes on 19-03-2020 16:35:06
+Updated data in 5.51 minutes on 19-03-2020 17:00:19
+Updated data in 6.13 minutes on 19-03-2020 17:41:56
+Updated data in 8.45 minutes on 20-03-2020 11:13:17
+Updated data in 9.80 minutes on 20-03-2020 11:24:04
+Updated data in 0.12 minutes on 20-03-2020 11:29:44
+Updated data in 6.10 seconds on 20-03-2020 11:30:19 
+Updated data in 5.96 seconds on 20-03-2020 11:31:05
+Updated data in 682.29 seconds on 20-03-2020 19:55:19
+Updated data in 7.07 seconds on 20-03-2020 20:04:35
+Updated data in 7.13 seconds on 20-03-2020 20:04:56
+Updated data in 8.49 seconds on 20-03-2020 20:05:20
+Updated data in 7.15 seconds on 20-03-2020 20:06:15
+Updated data in 7.16 seconds on 20-03-2020 20:06:35
+Updated data in 7.39 seconds on 20-03-2020 20:07:24
+Updated data in 7.66 seconds on 20-03-2020 20:08:44
+Updated data in 6.70 seconds on 20-03-2020 20:26:31
+Updated data in 6.80 seconds on 20-03-2020 20:58:38
+Updated data in 6.24 seconds on 20-03-2020 20:59:00
+Updated data in 7.60 seconds on 20-03-2020 20:59:41
+Updated data in 583.83 seconds on 20-03-2020 23:13:22
+Updated data in 7.93 seconds on 20-03-2020 23:16:11
+Updated data in 7.47 seconds on 20-03-2020 23:17:24
+Updated data in 552.94 seconds on 20-03-2020 23:28:40
+Updated data in 7.90 seconds on 20-03-2020 23:29:33
+Updated data in 6.83 seconds on 20-03-2020 23:29:54
+Updated data in 6.95 seconds on 20-03-2020 23:30:23
+Updated data in 6.69 seconds on 20-03-2020 23:33:23
+Updated data in 6.14 seconds on 20-03-2020 23:33:49
+Updated data in 6.19 seconds on 20-03-2020 23:35:38
+Updated data in 6.68 seconds on 20-03-2020 23:36:04
+Updated data in 6.52 seconds on 20-03-2020 23:37:11
+Updated data in 7.82 seconds on 20-03-2020 23:37:42
+Updated data in 7.68 seconds on 20-03-2020 23:38:08
+Updated data in 7.16 seconds on 20-03-2020 23:46:56
+Updated data in 8.01 seconds on 20-03-2020 23:48:53
+Updated data in 6.94 seconds on 20-03-2020 23:49:45
+Updated data in 7.15 seconds on 20-03-2020 23:50:28
+Updated data in 6.75 seconds on 21-03-2020 00:02:04
+Updated data in 7.47 seconds on 21-03-2020 10:09:42
+Updated data in 6.70 seconds on 21-03-2020 10:10:16
+Updated data in 684.19 seconds on 21-03-2020 10:22:07
+Updated data in 6.99 seconds on 21-03-2020 12:07:55
+Updated data in 7.59 seconds on 21-03-2020 12:10:26
+Updated data in 8.44 seconds on 21-03-2020 12:10:37
+Updated data in 7.69 seconds on 21-03-2020 12:10:48
+Updated data in 7.59 seconds on 21-03-2020 13:38:40
+Updated data in 597.99 seconds on 21-03-2020 17:52:20
+Updated data in 828.82 seconds on 21-03-2020 19:20:35
+Updated data in 865.60 seconds on 21-03-2020 22:07:42
+Updated data in 781.32 seconds on 22-03-2020 10:13:38
+Updated data in 957.82 seconds on 22-03-2020 13:27:23
+Updated data in 754.64 seconds on 22-03-2020 18:05:01
+Updated data in 1108.83 seconds on 23-03-2020 10:34:18
+Updated data in 1453.84 seconds on 24-03-2020 22:44:59
+Updated data in 12.27 seconds on 25-03-2020 20:44:36
+Updated data in 12.01 seconds on 25-03-2020 20:47:16
+Updated data in 1673.72 seconds on 26-03-2020 10:42:24
+Updated data in 1727.34 seconds on 27-03-2020 18:00:37
+Updated data in 3386.65 seconds on 05-04-2020 21:15:29

@@ -1,0 +1,16 @@
+.container {
+    background-color: 'white'
+}
+
+.parent {
+    background-color: #f073e1;
+    margin: 10px;
+    padding: 30px;
+}
+
+.child {
+    background-color: #f800db;
+    margin:5px
+}
+
+
